@@ -2,5 +2,6 @@ fastapi
 uvicorn
 sqlalchemy
 pylance
-psycopg2-binary
 passlib[bcrypt]
+psycopg2-binary
+python-multipart
